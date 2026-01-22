@@ -1,0 +1,7 @@
+vllm==0.10.0
+torch==2.7.1
+flash_attn==2.7.4.post1
+datasets
+pillow
+tqdm
+openai
