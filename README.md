@@ -1,5 +1,7 @@
 # MIR-SafetyBench Evaluation Framework
 
+![Dataset Examples](assets/Data_cases.png)
+
 A comprehensive evaluation framework for assessing multimodal large language models (MLLMs) on multi-image relationship (MIR) based safety attacks.
 
 ## 📚 Dataset
@@ -41,8 +43,6 @@ Each sample contains:
 - `image_keywords`: Keywords for each image
 - `images`: List of image file paths
 - `iteration`: Generation iteration number
-
-![Dataset Examples](assets/Data_cases.png)
 
 ## 🚀 Quick Start
 
